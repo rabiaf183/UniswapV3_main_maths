@@ -1,1 +1,2 @@
 # UniswapV3_main_maths
+This repository contains the main functionality of uniswap such as liquidity from users and make swaps within price range. Only one price range has been selected for simplicity. The swaps are only in one direction. The repository will contains main contracts like UniswapV3Pool, UniswapV3 Factory, UniswapV3Manager, UniswapV3 Quoter for on-chain swap price and UniswapV3NFTManager for turning liquidity to NFT position 
